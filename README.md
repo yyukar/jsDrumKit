@@ -2,6 +2,11 @@
 
 Simple pure HTML, CSS and JavaScript drum kit that lets you play sounds with your keyboard.
 
+## Live Demo
+
+You can try the project online here:  
+[Live demo](https://yyukar.github.io/jsDrumKit/)
+
 ## How to Run
 
 1. Clone or download this folder.
